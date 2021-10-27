@@ -12,7 +12,6 @@ Your app must conform to these requirements
 
 * **Must include a login/signup view**
 * **Must include a user profile view**
-* **Must include a dialog / modal appearing after at least 25 seconds**
 * **Must NOT use any css framework**
 * **Must be available on GitHub**
 
